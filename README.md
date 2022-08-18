@@ -1,12 +1,11 @@
 ## About
-Java FX My Todo app is a java based application that allows users to create, edit, and delete tasks.
+Java FX My Todo app is a Java based application that allows users to create, edit, and delete tasks.
 ## Context
-
-This full-stack project features a PHP backend and a Java front end. In addition, Google Cloud hosts Firebase NoSQL for data persistence. This application has been designed for desktop computers. And allows users to manage task lists with ease.
+This full-stack project includes a firebase backend and a Java Front End. This application was created for desktop computers. Additionally, users can easily manage task lists.
 
 ## Challenges
 
-This project presented obstacles because I was unfamiliar with firebase and had no prior experience performing NoSQL operations on firebase. I discovered, however, that NoSQL is ideal for simple applications that don't require atomic transactions and schema-less tables. Despite having only one month of Java experience, I completed this project in one week.
+Because I was unfamiliar with firebase and had no prior experience performing NoSQL operations on firebase, this project presented challenges. However, I discovered that NoSQL is best suited for simple applications that do not require atomic transactions or schema-less tables. I completed this project in one week despite having only one month of Java experience.
 
 <p align="center" width="100%">
 <img
