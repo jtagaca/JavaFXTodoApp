@@ -10,7 +10,7 @@ Because I was unfamiliar with firebase and had no prior experience performing No
 <p align="center" width="100%">
 <img
       src="https://jtagaca.live/images/JavaFXTodo.gif"
-      height=540px width=1080px
+      height=540px 
    />
       </p>
 
